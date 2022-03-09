@@ -1,4 +1,4 @@
-# ibm-submissions
+# Data science projects
 applied data science capstone
 
 machine learning models 
